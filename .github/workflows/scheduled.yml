@@ -38,7 +38,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run script
-        env:
+        # env:
           # Your secrets are available as environment variables
           # Add more secrets in Settings > Secrets > Actions
           # MY_EMAIL: ${{ secrets.MY_EMAIL }}
