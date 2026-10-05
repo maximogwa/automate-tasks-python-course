@@ -1,0 +1,1 @@
+This is an initial project to test GitHub Workflows with a program that uses a weather API to predict if it will rain in my actual location (Dublin) and send an SMS to my phone warning me about the rain using Twilio API. 
